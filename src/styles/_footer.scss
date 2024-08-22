@@ -17,6 +17,8 @@
 
     &__image {
         margin-right: 16px;
+        width: 20%;
+        height: auto;
 
         @media (max-width: 640px) {
             margin-right: 0;
